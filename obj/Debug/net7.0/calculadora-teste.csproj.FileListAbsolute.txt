@@ -1,0 +1,12 @@
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\bin\Debug\net7.0\calculadora-teste.deps.json
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\bin\Debug\net7.0\calculadora-teste.dll
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\bin\Debug\net7.0\calculadora-teste.pdb
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.AssemblyInfoInputs.cache
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.AssemblyInfo.cs
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.csproj.CoreCompileInputs.cache
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.dll
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\refint\calculadora-teste.dll
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.pdb
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\ref\calculadora-teste.dll
+C:\Users\joao2\OneDrive\Documentos\Estudo\C#\teste-projeto\obj\Debug\net7.0\calculadora-teste.csproj.AssemblyReference.cache
